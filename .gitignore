@@ -1,0 +1,10 @@
+#idea
+.idea
+out/
+.directory
+*.iml
+
+#MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
